@@ -1,0 +1,6 @@
+MMM Empty Starterpack
+
+This starterpack provides you with the full interface inspired by Day of the Tentacle. It's mostly empty otherwise.
+Read midi.txt in your games root directory on how to setup MIDI support.
+
+Have fun!
